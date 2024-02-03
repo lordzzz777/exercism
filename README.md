@@ -1,4 +1,5 @@
 
+  
 ##Descripción 
 Resuelve ejercicios de codificación y recibe orientación para desarrollar fluidez en los lenguajes de programación que elijas. El ejercicio es de código abierto y sin fines de lucro.
 
@@ -12,3 +13,5 @@ Aqui mostrare los enunciados y explicaciones traducido y explicaro en español, 
 **Mostrar mis soliciones a los distintos ejercicios realizados**
 
 **Y por supuesto que hotras personas pueda serviles de ayuda o inspiración** 😁
+
+
