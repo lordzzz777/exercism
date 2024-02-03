@@ -1,6 +1,6 @@
 
   
-<<<<<<< HEAD
+
 # Descripción 
 
 =======
@@ -17,7 +17,7 @@ Aqui mostrare los enunciados y explicaciones traducido y explicaro en español, 
 
 =======
 #Proposito
->>>>>>> parent of a4f9179 (Update README.md)
+
 **Mostrar los enunciados y Explicaciones, de una forma, lo mas clara posible, para un mejor entendimiento**
 
 **Mostrar mis soliciones a los distintos ejercicios realizados**
