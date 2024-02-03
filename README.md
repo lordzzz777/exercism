@@ -1,4 +1,5 @@
-![kiss-cut-stickers-3x3-default-634d16c63d12c jpg](https://github.com/lordzzz777/exercism/assets/114311106/b2b95075-0132-4bb8-b212-aea7e2db9760)
+
+![kiss-cut-stickers-3x3-default-634d16c63d12c jpg](https://github.com/lordzzz777/exercism/assets/114311106/33f5c07a-a7bb-4c85-8eb0-05dbfdc21aee)
 
 # Descripción 
 
