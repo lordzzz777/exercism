@@ -1,6 +1,11 @@
 
+<<<<<<< HEAD
 ![kiss-cut-stickers-3x3-default-634d16c63d12c jpg](https://github.com/lordzzz777/exercism/assets/114311106/33f5c07a-a7bb-4c85-8eb0-05dbfdc21aee)
 
+=======
+  
+<<<<<<< HEAD
+>>>>>>> parent of b95ecd8 (Update README.md)
 # Descripción 
 
 
@@ -12,6 +17,12 @@ Aqui mostrare los enunciados y explicaciones traducido y explicaro en español, 
   
 # Proposito
 
+<<<<<<< HEAD
+=======
+=======
+#Proposito
+>>>>>>> parent of a4f9179 (Update README.md)
+>>>>>>> parent of b95ecd8 (Update README.md)
 **Mostrar los enunciados y Explicaciones, de una forma, lo mas clara posible, para un mejor entendimiento**
 
 **Mostrar mis soliciones a los distintos ejercicios realizados**
