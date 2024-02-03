@@ -21,5 +21,5 @@ Aqui mostrare los enunciados y explicaciones traducido y explicaro en español, 
 
 
 ## Ejercicios Realizados:
-![hello-world](https://github.com/lordzzz777/exercism/assets/114311106/b12ba1a4-5df7-489c-a0cd-5a78ef334d71) ![lasagna](https://github.com/lordzzz777/exercism/assets/114311106/c85109a2-af6d-4ad6-aa19-cc0755ff8f46)
 
+![TareasIcon](https://github.com/lordzzz777/exercism/assets/114311106/15cd6b48-69cf-4b0a-ab8c-ea312611fa01)
