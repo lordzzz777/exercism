@@ -23,3 +23,6 @@ Aqui mostrare los enunciados y explicaciones traducido y explicaro en español, 
 ## Ejercicios Realizados:
 
 ![TareasIcon](https://github.com/lordzzz777/exercism/assets/114311106/15cd6b48-69cf-4b0a-ab8c-ea312611fa01)
+
+## Progreso:
+
