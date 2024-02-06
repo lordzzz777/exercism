@@ -4,5 +4,6 @@
         <page name='01_Hola_Mundo'/>
         <page name='02_Capas_de_lasaña'/>
         <page name='03_Wings_Quest'/>
+        <page name='04_Tarifas_de_Freelancer'/>
     </pages>
 </playground>
