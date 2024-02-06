@@ -22,7 +22,8 @@ Aqui mostrare los enunciados y explicaciones traducido y explicaro en español, 
 
 ## Ejercicios Realizados:
 
-![TareasIcon](https://github.com/lordzzz777/exercism/assets/114311106/15cd6b48-69cf-4b0a-ab8c-ea312611fa01)
+![Captura de pantalla 2024-02-03 a las 23 19 30](https://github.com/lordzzz777/exercism/assets/114311106/c91d995d-1a0b-453f-9fba-574961a2555e)
+
 
 ## Progreso:
 
